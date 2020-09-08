@@ -27,7 +27,15 @@ Required Parts:
 
 ![alt text](https://user-images.githubusercontent.com/68445659/92347839-0944a900-f086-11ea-993b-c5fd1b370bbd.jpg)
 
-### Step 3: Assemble wheels onto Chassis
+### Step 3: Adding the no head screw
+Required Parts:
+- no head screw x2
+
+![alt text](https://user-images.githubusercontent.com/68445659/92347840-09dd3f80-f086-11ea-8210-c9304b60d4bb.jpg)
+
+![alt text](https://user-images.githubusercontent.com/68445659/92347841-0a75d600-f086-11ea-9aeb-517b1ab92679.jpg)
+
+### Step 4: Assemble wheels onto Chassis
 Notice: you might have the end pieces those are 6 holes and 3 holes, if that is the case, makesure you have the 3 holes plate placed inside(close to the chassis)
 you might have all as 6 holes, in that case, it won't matter which one you place inside
 
